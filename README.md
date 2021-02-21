@@ -17,6 +17,6 @@ to get an accurate visual representation of the data.
 
 In order to view the map or the bar chart individually click on the links at the bottom of the page under the heading "metadata". 
 
-hhttps://public.tableau.com/views/COVID-19inIndia_16127821987990/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/COVID-19inIndia_16127821987990/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
 Let me know what you think.
